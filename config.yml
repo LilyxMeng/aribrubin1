@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://lilyxmeng.github.io/aris-website/"
 title: Ari Rubin
 paginate: 5
 theme: hugo-PaperMod
@@ -110,9 +110,9 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: 
-      name: 
-      url: 
+    - identifier:
+      name:
+      url:
       weight: 10
     # - identifier: tags
     #   name: tags
