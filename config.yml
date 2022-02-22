@@ -1,4 +1,4 @@
-baseURL: "https://lilyxmeng.github.io/aris-website/"
+baseURL: "https://aribrubin1.github.io/arirubin/"
 title: Ari Rubin
 paginate: 5
 theme: hugo-PaperMod
@@ -78,7 +78,7 @@ params:
     - name: instagram
       url: "https://www.instagram.com/ari.rubin2004/"
     - name: email
-      url: "ari.rubin@ymail.com"
+      url: "mailto:ari.rubin@ymail.com"
 
   # analytics:
   #   google:
