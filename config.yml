@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics:
 
 minify:
   disableXML: true
@@ -70,7 +70,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: Ari Rubin
+    Title: Ari Rubin 
     Content: >
       Carelton University Computer Science Student
 
