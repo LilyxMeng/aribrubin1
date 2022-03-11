@@ -4,4 +4,4 @@ date: ""
 description: "Python game created with Pygame"
 ---
 
-GitHub Repository: 
+GitHub Repository: https://github.com/aribrubin1/SpaceInvaders
